@@ -2,4 +2,4 @@
 el meu portafoli personal
 
 ##La meva primera pràctica en Git
-)si voleu visitar el resultat d'aquesta primera pràctica, feu click en el següent [link](https://marinamartin.github.io/geo-mapa)
+Si voleu visitar el resultat d'aquesta primera pràctica feu click en el següent  [link](https://marinamartin.github.io/geo-mapa/)
